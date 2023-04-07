@@ -1,0 +1,12 @@
+D:\DoAnNganh\Blog\Blog.Common\bin\Debug\netcoreapp3.1\Blog.Common.deps.json
+D:\DoAnNganh\Blog\Blog.Common\bin\Debug\netcoreapp3.1\Blog.Common.runtimeconfig.json
+D:\DoAnNganh\Blog\Blog.Common\bin\Debug\netcoreapp3.1\Blog.Common.runtimeconfig.dev.json
+D:\DoAnNganh\Blog\Blog.Common\bin\Debug\netcoreapp3.1\Blog.Common.dll
+D:\DoAnNganh\Blog\Blog.Common\bin\Debug\netcoreapp3.1\Blog.Common.pdb
+D:\DoAnNganh\Blog\Blog.Common\obj\Debug\netcoreapp3.1\Blog.Common.csprojAssemblyReference.cache
+D:\DoAnNganh\Blog\Blog.Common\obj\Debug\netcoreapp3.1\Blog.Common.AssemblyInfoInputs.cache
+D:\DoAnNganh\Blog\Blog.Common\obj\Debug\netcoreapp3.1\Blog.Common.AssemblyInfo.cs
+D:\DoAnNganh\Blog\Blog.Common\obj\Debug\netcoreapp3.1\Blog.Common.csproj.CoreCompileInputs.cache
+D:\DoAnNganh\Blog\Blog.Common\obj\Debug\netcoreapp3.1\Blog.Common.dll
+D:\DoAnNganh\Blog\Blog.Common\obj\Debug\netcoreapp3.1\Blog.Common.pdb
+D:\DoAnNganh\Blog\Blog.Common\obj\Debug\netcoreapp3.1\Blog.Common.genruntimeconfig.cache

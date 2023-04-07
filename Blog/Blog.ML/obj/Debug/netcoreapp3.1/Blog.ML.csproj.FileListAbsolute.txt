@@ -1,0 +1,9 @@
+D:\DoAnNganh\Blog\Blog.ML\bin\Debug\netcoreapp3.1\Blog.ML.deps.json
+D:\DoAnNganh\Blog\Blog.ML\bin\Debug\netcoreapp3.1\Blog.ML.dll
+D:\DoAnNganh\Blog\Blog.ML\bin\Debug\netcoreapp3.1\Blog.ML.pdb
+D:\DoAnNganh\Blog\Blog.ML\obj\Debug\netcoreapp3.1\Blog.ML.csprojAssemblyReference.cache
+D:\DoAnNganh\Blog\Blog.ML\obj\Debug\netcoreapp3.1\Blog.ML.AssemblyInfoInputs.cache
+D:\DoAnNganh\Blog\Blog.ML\obj\Debug\netcoreapp3.1\Blog.ML.AssemblyInfo.cs
+D:\DoAnNganh\Blog\Blog.ML\obj\Debug\netcoreapp3.1\Blog.ML.csproj.CoreCompileInputs.cache
+D:\DoAnNganh\Blog\Blog.ML\obj\Debug\netcoreapp3.1\Blog.ML.dll
+D:\DoAnNganh\Blog\Blog.ML\obj\Debug\netcoreapp3.1\Blog.ML.pdb

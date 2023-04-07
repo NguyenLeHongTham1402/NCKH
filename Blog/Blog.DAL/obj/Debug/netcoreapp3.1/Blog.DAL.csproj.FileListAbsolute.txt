@@ -1,0 +1,17 @@
+D:\DoAnNganh\Blog\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.DAL.deps.json
+D:\DoAnNganh\Blog\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.DAL.runtimeconfig.json
+D:\DoAnNganh\Blog\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.DAL.runtimeconfig.dev.json
+D:\DoAnNganh\Blog\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.DAL.dll
+D:\DoAnNganh\Blog\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.DAL.pdb
+D:\DoAnNganh\Blog\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.csprojAssemblyReference.cache
+D:\DoAnNganh\Blog\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.AssemblyInfoInputs.cache
+D:\DoAnNganh\Blog\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.AssemblyInfo.cs
+D:\DoAnNganh\Blog\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.csproj.CoreCompileInputs.cache
+D:\DoAnNganh\Blog\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.dll
+D:\DoAnNganh\Blog\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.pdb
+D:\DoAnNganh\Blog\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.genruntimeconfig.cache
+D:\DoAnNganh\Blog\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.Common.dll
+D:\DoAnNganh\Blog\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.Common.pdb
+D:\DoAnNganh\Blog\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.csproj.CopyComplete
+D:\DoAnNganh\Blog\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.ML.dll
+D:\DoAnNganh\Blog\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.ML.pdb
